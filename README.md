@@ -15,7 +15,6 @@
 
 - Multi-batch pipeline for narrative generation using OpenAI models (`gpt-4o-mini`, `gpt-4o`, `o1`, etc.).
 - Automatic topic and advice mapping, dataset preparation, and structural filtering (SN/DE patterns).
-- Text validation, renumbering, and corpus-wide statistics (length, TTR, Zipf distribution).
 - Integration of a lightweight graphical interface for manual editing and segmentation.
 - Ready-to-use structure for reproducible experiments in text generation and educational content synthesis.
 
@@ -72,7 +71,8 @@ topic, advice, and mapping tables in csv format and generated texts
 - Automatic generation of new SN/DE during the early csv processing.
 - Cross-corpus alignment for hybrid generation models.
 - JSON schema for corpus metadata and other IA/LMM API.
-- Full statistical Analysis after generating the batches
+- Full statistical Analysis after generating the batches<br>
+  corpus-wide statistics (length, TTR, Zipf distribution).
 - Improvement of the pipeline, for loop textual refinement.
 
 ## References
