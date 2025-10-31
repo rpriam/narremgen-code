@@ -1,0 +1,54 @@
+Code;Name;Narrative_Structure
+SN1;Micro-shift;Situation -> Detail -> Change
+SN2;Acknowledged Error;Error -> Confrontation -> Change
+SN3;Broken Routine;Habit -> Disruption -> Reinvention
+SN4;Clarified Uncertainty;Uncertainty -> Attempt -> Clarification
+SN5;Tested Certainty;Certainty -> Confrontation -> Adjustment
+SN6;Mastered Excess;Excess -> Discomfort -> Adjustment
+SN7;Guided Curiosity;Observation -> Discovery -> Appropriation
+SN8;Indirect Transmission;Model -> Observation -> Imitation -> Mastery
+SN9;Fluid Transition;Dual Situation -> Transition -> Stabilization
+SN10;Silent Reflection;Observation -> Identification -> Adjustment
+SN1c;Error then Correction;Error -> Reflection -> Correction
+SN2c;Learning through Observation;Observation -> Appropriation -> Application
+SN3c;Learning through Automation;Repetition -> Fluency -> Mastery
+SN4c;Adjusted Perception;Attention -> Observation -> Adjustment
+SN5c;Productive Trial and Error;Attempt -> Error -> Correction -> Improvement
+SN6c;Focus–Reactivity;Distraction -> Focus -> Quick Reaction
+SN7c;Risk Assessment;Uncertainty -> Analysis -> Decision
+SN8c;Feedback Management;Criticism -> Reflection -> Improvement
+SN9c;Progressive Autonomy;Help -> Experience -> Independence
+SN10c;Repetition–Mastery;Adjustment Loop -> Improvement -> Mastery
+SN11c;Error Anticipation;Observation -> Anticipation -> Avoidance
+SN12c;Acceptance of Limits;Overestimation -> Realization -> Readjustment
+SN13c;Contextual Adaptation;Uncertainty -> Observation -> Adaptation
+SN14c;Personal Strategy;Situation -> Planning -> Improvement
+SN15c;Overcoming Automatism;Bad Habit -> Awareness -> Change
+SN16c;Theory into Practice;Theory -> Application -> Consolidation
+SN1g;Explicit Teaching;Lecture -> Attention -> Appropriation
+SN2g;Guided Correction;Error -> Assistance -> Adjustment
+SN3g;Demonstration;Presentation -> Observation -> Appropriation
+SN4g;Direct Exchange;Question -> Answer -> Reformulation
+SN5g;Shared Observation;Observation -> Discussion -> Appropriation
+SN6g;Peer Support;Request/Support -> Information/Interaction -> Resolution/Common Understanding
+SN20;Initiatory Quest;Departure -> Trials -> Revelation -> Transformed Return
+SN21;Unexpected Collaboration;Initial Mistrust -> Shared Circumstances -> Cooperation -> Resolution (or Not..)
+SN22;Confrontation with the Unknown;Routine -> Strange Event -> Investigation -> Explanation/Mystery Resolved (or Not..)
+SN23;Lifestyle Change;Risky Behavior -> Information -> Motivation -> Change/Resistance
+SN24;Skill Acquisition;Incompetence -> Initiation -> Training -> Mastery
+SN25;Problem Solving;Obstacle -> Analysis -> Search for Solutions -> Resolution (or Not..)
+SN26;Group Collaboration;Shared Task -> Role Allocation -> Interaction -> Collective Production
+SN27;Motivation and Perseverance;Initial Interest -> Difficulties -> Discouragement -> Sustained Effort -> Resolution
+SN28;Intergenerational Transmission;Ancestral Knowledge -> Young Learner -> Transmission -> Continuity/Transformation
+SN29;Facing One's Fears;Avoidance -> Gradual Confrontation -> Overcoming -> Personal Growth
+SN30;Loss of Control;Routine -> Disruptive Event -> Disorientation -> Return to Normality/Chaos
+SN31;Adapting to a New Environment;Departure -> Arrival -> Discovery -> Integration/Rejection
+SN32;Rupture and Reconstruction;Established Relationship -> Crisis -> Separation -> Self-Reconstruction
+SN33;Awareness;Ignorance -> Observation -> Concern -> Action/Inaction
+SN34;Inner Exploration;Existential Questioning -> Introspection -> Self-Discovery -> Transformation
+SN35;Risk Awareness;Ignorance -> Mild Symptom -> Alert -> Preventive/Curative Action
+SN36;Adoption of a New Habit;Reluctance -> Attempt -> Observation/Repetition -> Integration into Routine
+SN37;Crisis Management;Trigger -> Crisis/Acute Symptoms -> Help-Seeking -> Stabilization
+SN38;Search for Reliable Information;Trigger -> Multiple Sources -> Sorting and Analysis -> Informed Decision
+SN39;Problem Prevention;Risk Factors -> Information -> Behavioral Change -> Risk Reduction
+SN40;Supporting a Loved One;Concern -> Support -> Encouragement -> Improvement/Stagnation
