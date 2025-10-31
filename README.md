@@ -82,8 +82,9 @@ topic, advice, and mapping tables in csv format and generated texts
 
 ## Acknowledgments
 
-It is thanked OpenAI for its IA help at generating, debugging and refining most of the code for the NarrEmGen pipeline.<br>
+It is thanked OpenAI for its IA help at generating, debugging and refining most of the code for the automatic pipeline.<br>
+It is thanked also all authors/contributors to `pandas`, `matplotlib`, `tkinter`, `openai`, `reportlab`, `python-docx`.
 
 ---
 
-© 2025 — NarrEmGen Project.
+© 2025 - NarrEmGen Project.
