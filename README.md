@@ -3,19 +3,19 @@
 
 ## Main modules
 
-- `pipeline`: Main entry point for batch generation, filtering, renumbering, and statistical analysis of narrative texts.
-- `core`: OpenAI interface, API management, and safe text generation utilities.
+- `pipeline`: Main entry point for batch generation, filtering, renumbering, and stats.
+- `core`: OpenAI interface, API management, and safe/robust text generation utilities.
 - `data`: Data preparation and input handling for topic–advice–prompt-based generation.
 - `narratives`: Text post-processing, style control, and thematic structure.
-- `analyzestats`: Statistical exploration, corpus comparison, PCA, Zipf’s law checks.
+- `analyzestats`: Statistical exploration, corpus comparison with SN/DE counts.
 - `utils`: Validation, logging, and helper functions for file and mapping control.
-- `interface`: Optional Tkinter GUI for text segmentation and tagging.
+- `interface`: Optional Tkinter GUI for text segmentation and tagging (not generation).
 
 ## Key features
 
-- Multi-batch pipeline for narrative generation using OpenAI models (`gpt-4o-mini`, `gpt-4o`, `o1`, etc.).
-- Automatic topic and advice mapping, dataset preparation, and structural filtering (SN/DE patterns).
-- Integration of a lightweight graphical interface for manual editing and segmentation.
+- Multi-batch pipeline for narrative generation using OpenAI models (`gpt-4o-mini`, `gpt-4o`, `o3`, etc.).
+- Automatic topic and advice mapping, dataset preparation, and structural generation (SN/DE patterns).
+- Filtering of the rows/batch for advice+sentence/context/mapping csv, renumbering, appending csv and texts.
 - Ready-to-use structure for reproducible experiments in text generation and educational content synthesis.
 
 Note: This package is provided *“as is”* for research and educational purposes.  
@@ -71,7 +71,7 @@ topic, advice, and mapping tables in csv format and generated texts
 - Automatic generation of new SN/DE during the early csv processing.
 - Cross-corpus alignment for hybrid generation models.
 - JSON schema for corpus metadata and other IA/LMM API.
-- Full statistical Analysis after generating the batches<br>
+- Full statistical analysis after generating the batches<br>
   corpus-wide statistics (length, TTR, Zipf distribution).
 - Improvement of the pipeline, for loop textual refinement.
 
