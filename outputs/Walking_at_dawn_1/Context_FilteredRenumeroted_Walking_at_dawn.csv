@@ -1,0 +1,272 @@
+Num;Character;Presence;Location;Sensation;Time;Moment;First_Name
+1;35_years_old_community_worker_female;people on the sidewalk (with a friend who advises);urban;cool_morning;morning;calm;Chloé
+2;28_years_old_student_male;teacher classmates (with a classmate who advises);school;quiet_morning;morning;clear;Lucas
+3;40_years_old_jogger_female;street walkers (with an older woman who advises);park;fresh_air;morning;bright;Emma
+4;22_years_old_nurse_male;store buyers (with a concerned shopper who advises);urban;soft_light;morning;peaceful;Thomas
+5;31_years_old_photographer_female;people in street (with a delivery person who advises);city;noisy_morning;morning;lively;Sophie
+6;45_years_old_manager_male;someone at a window (with a passerby who speaks);urban;light_wind;morning;cloudy;Antoine
+7;27_years_old_teacher_female;people on the sidewalk (with a stranger who gives advice);school;bright_sun;morning;warm;Juliette
+8;50_years_old_retiree_male;crow (alone, aka inner voice);park;quiet;morning;soft;Jean
+9;33_years_old_dancer_female;street walkers (with a friend who advises);city;fresh_air;morning;clear;Camille
+10;36_years_old_engineer_male;people in street (with a police officer who speaks);urban;soft_light;morning;calm;Maxime
+11;19_years_old_graduate_female;people on the sidewalk (with a mentor who advises);university;vivid_color;morning;bright;Léa
+12;42_years_old_doctor_male;teacher classmates (with a colleague who advises);hospital;quiet;morning;peaceful;David
+13;29_years_old_writer_female;people in street (with a bookstore owner who speaks);urban;warm_scent;morning;soft;Clara
+14;38_years_old_cook_male;store buyers (with a cashier who advises);grocery_store;busy_bustle;morning;lively;Pierre
+15;23_years_old_engineer_female;crow (alone, aka inner voice);city;noise;morning;calm;Alice
+16;48_years_old_chef_male;people on the sidewalk (with a friend who advises);urban;fragrant;morning;bright;Julien
+17;55_years_old_baker_female;people in street (with a morning jogger who speaks);park;fresh_breeze;morning;peaceful;Céline
+18;30_years_old_artist_male;crow (alone, aka inner voice);urban;light_music;morning;quiet;Martin
+19;34_years_old_technician_female;street walkers (with a neighbor who advises);community;calm;morning;clear;Nathalie
+20;26_years_old_anthropologist_male;people on the sidewalk (with a colleague who advises);university;soft_rain;morning;cloudy;Gabriel
+21;25_years old female walker;people on the sidewalk (with a friend who advises);urban;cool breeze;morning;calm;Sophie
+22;30_years old male jogger;teacher classmates (with a mentor who speaks);park;fresh grass;morning;bright;Julien
+23;28_years old female commuter;street walkers (with an older woman who advises);urban;car exhaust;morning;lively;Claire
+24;23_years old male runner;people in street (with a stranger who speaks the advice);urban;morning dew;morning;clear;Thomas
+25;19_years old female student;crow (alone, aka inner voice);school;quiet;morning;soft;Emma
+26;35_years old male cyclist;people on the sidewalk (with a fellow cyclist who advises);park;chirping birds;morning;peaceful;Eric
+27;40_years old female dog-walker;people in street (with a passerby who suggests);urban;morning light;morning;clear;Isabelle
+28;22_years old male athlete;people on the sidewalk (with a coach who speaks);school;whispers of leaves;morning;vivid;Lucas
+29;27_years old female walker;friends (with her sister who advises);park;floral scents;morning;warm;Chloe
+30;32_years old male runner;store buyers (with a shopkeeper who talks);urban;coffee aroma;morning;calm;David
+31;29_years old female trekker;people on the sidewalk (with someone at a café who suggests);urban;early morning sun;morning;bright;Alice
+32;21_years old male student;people in street (with a classmate who speaks);school;rustling paper;morning;quiet;Max
+33;24_years old female jogger;street walkers (with a fitness enthusiast who advises);park;crisp air;morning;soft;Julie
+34;38_years old male hiker;people on the sidewalk (with an older man who talks);urban;morning chill;morning;bright;Pierre
+35;26_years old female surfer;people in street (with a beachgoer who suggests);urban;salty breeze;morning;cool;Camille
+36;31_years old male worker;people around (with a colleague who advises);urban;car horns;morning;lively;Nicolas
+37;20_years old female student;crow (alone, aka inner voice);school;quiet library;morning;calm;Léa
+38;29_years old male athlete;teacher classmates (with a trainer who advises);park;morning fog;morning;peaceful;Alex
+39;34_years old female commuter;people in street (with a friend who speaks);urban;breakfast scents;morning;vivid;Claire
+40;22_years old male student;crow (alone, aka inner voice);school;crickets;morning;soft;Olivier
+41;30 years old, adult, female;people on the sidewalk (with a friend who advises);park;cool air,morning light;early morning;calm;Emma
+42;45 years old, elder, male;crow (alone, aka inner voice);street;distant traffic,soft chirping;morning;quiet;Jean
+43;25 years old, young adult, female;store buyers (with a colleague who advises);shopping center;bright neon lights,morning coffee smell;morning;busy;Chloe
+44;35 years old, adult, male;people in street (with a jogger who speaks the advice);city square;urban noise,vibrant colors;morning;lively;Thomas
+45;40 years old, adult, female;teacher classmates (with a student who advises);school yard;shuffling feet,whispers;morning;soft;Laura
+46;50 years old, elder, male;someone at a window (with a passerby who speaks the advice);community park;fresh grass scent,morning dew;early morning;peaceful;Albert
+47;28 years old, young adult, male;people on the sidewalk (with a friend who advises);city park;light laughter, rustling leaves;morning;clear;Sebastian
+48;33 years old, adult, female;people in street (with a dog walker who speaks the advice);residential area;light breeze,warm sun;morning;bright;Caroline
+49;21 years old, student, male;crow (alone, aka inner voice);quiet street;silence, soft footsteps;early morning;quiet;Lucas
+50;60 years old, elder, female;street walkers (with a neighbor who advises);neighborhood corner;fresh morning air, floral scents;morning;calm;Claudine
+51;29 years old, young adult, female;teacher classmates (with a friend who speaks);university campus;students chatting, birds singing;morning;vivid;Isabelle
+52;32 years old, adult, male;people in street (with a business woman who speaks the advice);busy intersection;traffic noise, engine sounds;morning;noisy;Julien
+53;26 years old, young adult, female;store buyers (with a coworker who advises);supermarket;food aroma,morning hustle;morning;soft;Marie
+54;48 years old, adult, male;people on the sidewalk (with a parent who speaks the advice);playground;children laughing, swings creaking;morning;warm;David
+55;37 years old, adult, female;teacher classmates (with a coach who advises);gym;echoing footsteps, lively chatter;morning;bright;Sophie
+56;42 years old, adult, male;people on the sidewalk (with a retired man who speaks the advice);town center;street vendors, lively sounds;morning;lively;Michel
+57;31 years old, young adult, female;people in street (with a friend who advises);city plaza;crisp air, busy atmosphere;morning;clear;Audrey
+58;54 years old, elder, male;someone at a window (with a passerby who speaks the advice);home street;soft morning light, quiet;morning;peaceful;Henri
+59;22 years old, student, female;crow (alone, aka inner voice);university campus;noise of books flipping, chatter;morning;calm;Alice
+60;38 years old, adult, male;people on the sidewalk (with a cyclist who advises);bicycle path;refreshing breeze, early morning scent;morning;soft;Benoit
+61;30_years_old man;people in street (with a passerby who advises);urban;morning_light;morning;calm;Louis
+62;28_years_old woman;street walkers (with an older woman who advises);urban;bright;morning;clear;Clara
+63;45_years_old man;teacher classmates (with a friend who speaks);school;quiet;morning;peaceful;Paul
+64;25_years_old woman;store buyers (with a friend who talks);urban;light;morning;soft;Sophie
+65;35_years_old man;people on the sidewalk (with a jogger who advises);urban;noise;morning;lively;Martin
+66;32_years_old woman;someone at a window (with a neighbor who advises);urban;calm;morning;bright;Elise
+67;50_years_old man;crow (alone, aka inner voice);park;peaceful;morning;quiet;Bernard
+68;40_years_old woman;people in street (with a local resident who speaks);urban;fresh;morning;cool;Veronique
+69;20_years_old man;people on the sidewalk (with a mentor who advises);campus;vivid;morning;clear;Julien
+70;60_years_old woman;street walkers (with a fellow walker who shares);park;soft;morning;calm;Genevieve
+71;29_years_old man;people in street (with a friend who advises);urban;bright;morning;clear;Thomas
+72;33_years_old woman;people on the sidewalk (with a stranger who speaks);urban;busy;morning;lively;Charlotte
+73;38_years_old man;teacher classmates (with a peer who advises);school;dry;morning;clear;Marc
+74;27_years_old woman;people in street (with a nearby vendor who talks);urban;fragrant;morning;warm;Amelie
+75;43_years_old man;people on the sidewalk (with a cyclist who advises);urban;brisk;morning;cool;Vincent
+76;31_years_old woman;street walkers (with a mentor who speaks);park;fresh;morning;soft;Nathalie
+77;22_years_old man;people in street (with a local who advises);urban;light;morning;bright;Alexandre
+78;34_years_old woman;someone at a window (with a neighbor who suggests);urban;quiet;morning;peaceful;Isabelle
+79;48_years_old man;people on the sidewalk (with a stranger who gives advice);urban;sunny;morning;clear;Georges
+80;36_years_old woman;people in street (with a runner who talks);urban;energetic;morning;lively;Celine
+81;28 year old woman pedestrian;people in street (with an older woman who advises);urban;cool morning air;morning;clear;Juliette
+82;45 year old man jogger;street walkers (with a young girl who gives the advice);park;soft breeze;morning;calm;Louis
+83;34 year old woman cyclist;people on the sidewalk (with a cyclist friend who talks);urban;fresh scent of grass;morning;bright;Camille
+84;22 year old male student;teacher classmates (with a fellow student who speaks);school;slightly damp;morning;lively;Thomas
+85;30 year old female early riser;crow (alone, aka inner voice);urban;early light;morning;quiet;Clara
+86;50 year old man dog owner;people on the sidewalk (with a neighbor who advises);residential area;gentle rustling of leaves;morning;peaceful;Pascal
+87;24 year old female runner;street walkers (with a friend who talks);park;crisp air;morning;sunny;Sophie
+88;19 year old male college student;people in street (with a friend who advises);urban;scent of coffee;morning;soft;Maxime
+89;37 year old woman bus commuter;people in street (with a stranger who speaks);urban;scent of fresh bread;morning;bright;Anne
+90;29 year old male business professional;store buyers (with a shopkeeper who talks);urban;breeze from the bakery;morning;clear;Julien
+91;41 year old female teacher;people on the sidewalk (with a student who advises);school;light chatter;morning;vivid;Claire
+92;38 year old male jogger;people on sidewalk (with a fellow runner who speaks);park;earthy smell of damp soil;morning;warm;Eric
+93;26 year old female artist;someone at a window (with a neighbor who advises);urban;aromatic flowers;morning;cool;Lucie
+94;33 year old male hiker;people in street (with a hiking guide who speaks);mountains;fresh mountain air;morning;bright;François
+95;21 year old female volunteer;street walkers (with a mentor who advises);urban;smell of fruits;morning;lively;Marie
+96;40 year old male architect;people in street (with a colleague who advises);urban;morning traffic;morning;noisy;Bernard
+97;27 year old female teacher;people on sidewalk (with another teacher who speaks);school;light laughter;morning;calm;Charlotte
+98;35 year old male retiree;crow (alone, aka inner voice);park;chirping birds;morning;peaceful;Henri
+99;42 year old female entrepreneur;street walkers (with a friend who advises);urban;fragrance of coffee;morning;cloudy;Isabelle
+100;31 year old male volunteer;people on the sidewalk (with a passerby who speaks);urban;morning dew;morning;saturated;Olivier
+101;35 years old man male;people on the sidewalk (with a friend who advises);urban;cool_morning;morning;clear;Marc
+102;28 years old woman female;people in street (with a stranger who speaks the advice);urban;lively_morning;morning;bright;Claire
+103;22 years old student male;teacher classmates (with a classmate who speaks);school;quiet_afternoon;afternoon;calm;Thomas
+104;30 years old woman female;store buyers (with her friend who gives the advice);urban;vivid_morning;morning;soft;Juliette
+105;40 years old man male;people in street (with a passerby who advises);urban;noisy_morning;morning;cloudy;Philippe
+106;45 years old man male;street walkers (with an elderly man who speaks);urban;cool_morning;morning;peaceful;Jean
+107;29 years old woman female;crow (alone, aka inner voice);urban;quiet_night;night;serene;Elise
+108;50 years old man male;people on the sidewalk (with a local who speaks the advice);urban;bright_morning;morning;clear;Henri
+109;26 years old student female;teacher classmates (with a friend who advises);school;soft_afternoon;afternoon;calm;Alice
+110;38 years old man male;people in street (with a person who speaks the advice);urban;vivid_morning;morning;bright;Olivier
+111;27 years old woman female;people on the sidewalk (with a co-worker who advises);urban;cool_afternoon;afternoon;cloudy;Camille
+112;33 years old man male;people in street (with a neighbor who advises);urban;warm_morning;morning;soft;Nicolas
+113;24 years old woman female;people on the sidewalk (with a friend who advises);urban;lively_morning;morning;bright;Laura
+114;31 years old man male;people in street (with a passerby who advises);urban;calm_afternoon;afternoon;peaceful;David
+115;29 years old woman female;people on the sidewalk (with a stranger who advises);urban;noisy_morning;morning;vivid;Emma
+116;46 years old man male;people in street (with an acquaintance who advises);urban;lively_afternoon;afternoon;clear;Philippe
+117;34 years old woman female;people on the sidewalk (with her friend who speaks);urban;soft_morning;morning;serene;Anne
+118;36 years old man male;street walkers (with a local who advises);urban;cool_morning;morning;calm;Louis
+119;30 years old woman female;people on the sidewalk (with a friend who speaks);urban;warm_afternoon;afternoon;bright;Mélanie
+120;30 years old, pedestrian, female;people on the sidewalk (with a stranger who speaks the advice);urban;fresh air,morning chill;morning, early;calm;Claire
+121;45 years old, local resident, male;street walkers (with an older man who advises);urban;city lights,morning glow;morning, dawn;lively;Thomas
+122;25 years old, student, female;teacher classmates (with a classmate who speaks);school;quiet whispers,morning focus;morning, early;bright;Emily
+123;50 years old, community member, male;people in street (with a nearby woman who speaks the advice);urban;sound of traffic,morning hustle;morning, early;cool;Pierre
+124;30_years_old adult male;people on the sidewalk (with a friend who advises);urban;light breeze morning;morning;clear;Lucas
+125;25_years_old young female;teacher classmates (with her teacher who advises);school;quiet ambiance morning;morning;calm;Emma
+126;42_years_old adult female;crow (alone, aka inner voice);urban;city noise morning;morning;bright;Sophie
+127;28_years_old young male;store buyers (with an older man who advises);store;food aroma morning;morning;vivid;Julien
+128;36_years_old adult female;street walkers (with a jogger who advises);park;fresh air morning;morning;peaceful;Claire
+129;22_years_old young male;people in street (with a mentor who advises);urban;sounds of nature morning;morning;soft;Antoine
+130;34_years_old adult female;someone at a window (with a family member who advises);home;calm sounds morning;morning;warm;Nathalie
+131;29_years_old young male;students (with a classmate who advises);school;crisp air morning;morning;clear;Vincent
+132;33_years_old adult female;people on the sidewalk (with a passerby who advises);urban;busy street noise morning;morning;lively;Mathilde
+133;24_years_old young male;people in street (with a stranger who advises);urban;city light morning;morning;bright;Gabriel
+134;40_years_old adult female;crow (alone, aka inner voice);park;birds chirping morning;morning;quiet;Isabelle
+135;27_years_old young male;teacher classmates (with a professor who advises);school;scholarly silence morning;morning;calm;Thomas
+136;32_years_old adult female;store buyers (with a friend who advises);store;coffee scent morning;morning;soft;Céline
+137;38_years_old adult male;street walkers (with a concerned neighbor who advises);neighborhood;rustling leaves morning;morning;peaceful;Olivier
+138;26_years_old young female;people in street (with a yoga instructor who advises);urban;tranquil sounds morning;morning;clear;Chloé
+139;39_years_old adult male;people on the sidewalk (with a dog owner who advises);park;earthy smells morning;morning;cloudy;Marc
+140;30_years_old adult female;students (with a peer who advises);school;active chatter morning;morning;lively;Alice
+141;41_years_old adult male;crow (alone, aka inner voice);city;city hum morning;morning;windy;Jean
+142;23_years_old young female;people on the sidewalk (with a local elder who advises);urban;flower scent morning;morning;warm;Elodie
+143;35_years_old adult male;street walkers (with a fitness coach who advises);park;invigorating air morning;morning;bright;Philippe
+144;28_years old female runner;people in street (with a friend who advises);park;cool air,morning dew;morning;calm;Chloé
+145;34_years old male jogger;street walkers (with an older man who advises);city street;fresh breeze,car engine sounds;morning;quiet;Julien
+146;45_years old female hiker;teacher classmates (with a student who speaks);school yard;morning light,birdsong;morning;bright;Claire
+147;50_years old male nature lover;someone at a window (with a neighbor who speaks);rural area;crisp air,earthy smells;morning;peaceful;Marc
+148;22_years old male student;people on the sidewalk (with a passerby who advises);urban park;soft light,sounds of chatter;morning;soft;Lucas
+149;41_years old female walker;store buyers (with her daughter who gives the advice);grocery store;fragrant coffee,hum of machines;morning;warm;Sophie
+150;39_years old male fitness coach;people in street (with a stranger who speaks);city park;chirping birds,traffic noise;morning;lively;Thomas
+151;30_years old female teacher;teacher classmates (with a colleague who speaks);school corridor;faint sounds of children,light foot traffic;morning;vivid;Emma
+152;27_years old male commuter;people on the sidewalk (with a friend who advises);downtown;hustle and bustle,food cart smells;morning;noisy;Ethan
+153;35_years old female nurse;crow (alone, aka inner voice);hospital grounds;sterile scent,dim lights;morning;cloudy;Isabelle
+154;29_years old male athlete;street walkers (with a fellow runner who advises);city running path;warm sun,trees rustling;morning;clear;Alex
+155;32_years old female mother;people in street (with a senior citizen who speaks);neighborhood avenue;fresh pastries,children playing;morning;bright;Laura
+156;24_years old male explorer;someone at a window (with a friend who gives advice);cozy cafe;aroma of coffee,soft music;morning;soft;Mathieu
+157;36_years old female volunteer;people on the sidewalk (with a passerby who talks);community center;warm scents of breakfast,voices overlapping;morning;warm;Nathalie
+158;31_years old male office worker;people in street (with a colleague who advises);office complex;city sounds,crisp air;morning;calm;Pierre
+159;25_years old female college student;store buyers (with a wise clerk who advises);local shop;faint perfume,background chatter;morning;vivid;Celina
+160;48_years old male retired;teacher classmates (with a young adult who speaks);community park;peaceful surroundings,birds singing;morning;peaceful;Jean
+161;21_years old female artist;crow (alone, aka inner voice);art studio;echo of footsteps,paint fumes;morning;quiet;Alice
+162;53_years old male gardener;people on the sidewalk (with a neighbor who advises);quiet street;fresh dirt smell,crickets in the distance;morning;calm;Henri
+163;47_years old female chef;people in street (with a local chef who speaks);cooking school;aroma of fresh herbs,bustling sounds;morning;lively;Samantha
+164;32 years old male pedestrian;people on the sidewalk (with a fellow runner who advises);urban;morning light;early morning;calm;Thomas
+165;28 years old female cyclist;street walkers (with a traffic officer who advises);urban;fresh air;early morning;bright;Claire
+166;45 years old male jogger;people on the sidewalk (with a neighbor who advises);urban;early morning sounds;morning;quiet;Jean
+167;22 years old female student;teacher classmates (with an older student who advises);school;schoolyard scents;afternoon;vivid;Sophie
+168;30 years old male office worker;crow (alone, aka inner voice);urban;city noise;morning;cool;Michael
+169;26 years old female artist;people in street (with a cafés’ patron who advises);urban;coffee aroma;morning;soft;Elise
+170;34 years old male dog owner;people on the sidewalk (with a dog walker who advises);park;morning smells of grass;early morning;peaceful;Lucas
+171;19 years old female traveler;someone at a window (with a local resident who advises);urban;city light;afternoon;lively;Chloe
+172;50 years old male wildlife photographer;people in street (with a nature enthusiast who advises);park;rustling leaves;morning;windy;Pierre
+173;40 years old female security professional;people on the sidewalk (with a passerby who advises);urban;city atmosphere;early morning;clear;Nathalie
+174;29 years old male college student;teacher classmates (with a mentor who advises);school;library silence;afternoon;calm;Julien
+175;35 years old female nurse;people in street (with a friend who advises);urban;street food smells;late morning;cloudy;Marion
+176;27 years old male hiker;people on the sidewalk (with a local shopkeeper who advises);urban;afternoon light;afternoon;bright;Antoine
+177;21 years old female volunteer;people on the sidewalk (with a kind stranger who advises);urban;pleasant breeze;morning;lively;Audrey
+178;39 years old male teacher;people in street (with a parent who advises);school;school bell sounds;morning;soft;Philippe
+179;22 years old female intern;people on the sidewalk (with a coworker who advises);urban;light chatter;morning;warm;Margaux
+180;48 years old male retiree;crow (alone, aka inner voice);park;birds chirping;morning;peaceful;Gérard
+181;36 years old female fitness coach;people on the sidewalk (with a client who advises);urban;distinct scents of flowers;morning;cool;Céline
+182;24 years old male student;teacher classmates (with a guidance counselor who advises);school;quiet hallways;afternoon;calm;Yann
+183;37 years old female bus driver;people on the sidewalk (with a passenger who advises);urban;urban hustle;early morning;vivid;Isabelle
+184;30_year_old_adult_female;friends (with a friend who advises);park;chirping_birds;morning;calm;Claire
+185;25_year_old_adult_male;parent (with his mother who advises);urban_road;cool_breeze;morning;bright;Julien
+186;40_year_old_adult_female;family (with her brother who talks);school_yard;soft_sounds;morning;quiet;Sophie
+187;20_year_old_young_adult_male;classmates (with a peer who advises);university_campus;light_traffic;morning;lively;Marc
+188;35_year_old_adult_female;colleagues (with a coworker who speaks);city_sidewalk;fresh_coffee;morning;soft;Isabelle
+189;28_year_old_young_adult_male;friends_walkers (with a buddy who talks);bike_path;morning_dew;morning;vivid;Lucas
+190;19_year_old_young_adult_female;friends (with a friend who advises);park;floral_smell;morning;peaceful;Emma
+191;32_year_old_adult_male;strangers (with someone at the coffee shop who advises);urban_area;city_lights;morning;warm;Thomas
+192;26_year_old_young_adult_female;friends (with a friend who advises);walking_trail;scent_of_grass;morning;cloudy;Chloé
+193;35_years_old_urban_planner_male;people_in_street (with a friend who advises);urban;noise from cars;morning;calm;Alex
+194;28_years_old_student_female;teacher_classmates (with a classmate who speaks);school;light chatter;morning;bright;Chloe
+195;22_years_old_software_developer_male;store_byers (with a mentor who gives the advice);urban;smell of coffee;morning;clear;Lucas
+196;40_years_old_nurse_female;crow (alone, aka inner voice);park;birds chirping;morning;peaceful;Marie
+197;29_years_old_researcher_male;people_on_the_sidewalk (with a jogger who speaks);urban;fresh air;morning;cool;Thomas
+198;31_years_old_fitness_instructor_female;people_in_street (with a fellow instructor who motivates);urban;sound of footsteps;morning;vivid;Sophie
+199;45_years_old_teacher_male;students (with a student who suggests);school;noise of laughter;morning;lively;Jean
+200;27_years_old_artist_female;people_on_the_sidewalk (with a passerby who cautions);urban;city sounds;morning;soft;Emma
+201;50_years_old_retired_police_officer_male;someone_at_a_window (with a neighbor who advises);urban;morning light;morning;bright;Paul
+202;24_years_old_photographer_female;crow (alone, aka inner voice);park;smells of flowers;morning;calm;Isabelle
+203;38_years_old_business_owner_male;people_in_street (with a local who speaks);urban;traffic noise;morning;cloudy;Marc
+204;26_years_old_nurse_female;people_on_the_sidewalk (with an older woman who advises);urban;cool breeze;morning;quiet;Clara
+205;33_years_old_web_developer_male;teacher_classmates (with a teacher who emphasizes);school;quiet atmosphere;morning;peaceful;Olivier
+206;30_years_old_mom_female;store_byers (with her daughter who gives the advice);urban;aroma of pastries;morning;warm;Laure
+207;23_years_old_engineer_male;people_in_street (with a mentor who shares tips);urban;hum of conversations;morning;lively;David
+208;37_years_old_dog_owner_female;neighboring_dog_walkers (with a fellow dog owner who mentions);park;earthy smell;morning;soft;Natalie
+209;26_years_old_travel_blogger_male;people_on_the_sidewalk (with a friend who suggests);urban;aroma of coffee;morning;bright;Vincent
+210;29_years_old_marathon_runner_female;crow (alone, aka inner voice);park;whispers of wind;morning;calm;Julie
+211;41_years_old_musician_male;people_in_street (with a fellow musician who advises);urban;sound of music;morning;vivid;Raphaël
+212;34_years_old_lawyer_female;people_on_the_sidewalk (with a colleague who reminds);urban;smell of rain;morning;cloudy;Céline
+213;25 years old, pedestrian, female;street walkers (with an older woman who advises);urban;fresh_air;morning;calm;Claire
+214;34 years old, jogger, male;people on the sidewalk (with a colleague who speaks);park;soft_light;morning;clear;Julien
+215;22 years old, commuter, female;store buyers (with her friend who gives the advice);urban;city_noise;morning;quiet;Sophie
+216;29 years old, student, male;teacher classmates (with a friend who speaks);school;cheerful_birds;morning;bright;Antoine
+217;19 years old, high schooler, female;people in street (with a passerby who advises);urban;early_morning_light;morning;calm;Chloé
+218;41 years old, professional, male;people on the sidewalk (with a neighbor who speaks);urban;cool_breeze;morning;lively;Marc
+219;27 years old, artist, female;crow (alone, aka inner voice);park;whispering_leaves;morning;peaceful;Emma
+220;32 years old, teacher, male;teacher classmates (with a student who talks);school;light_rain;morning;cloudy;Pierre
+221;45 years old, dog owner, female;people on the sidewalk (with a stranger who advises);park;sweet_grass;morning;warm;Isabelle
+222;30 years old, writer, male;someone at a window (with a friend who advises);urban;coffee_shop_smell;morning;bright;Thomas
+223;24 years old, intern, female;crow (alone, aka inner voice);urban;bus_engine;morning;noisy;Julie
+224;38 years old, nurse, male;people in street (with a nearby shopkeeper who speaks);urban;street_food_smell;morning;vivid;Olivier
+225;19 years old, college student, female;friends in the park (with a best friend who advises);park;morning_dew;morning;soft;Anaïs
+226;28 years old, engineer, male;people on the sidewalk (with a pedestrian who talks);urban;morning_air;morning;cool;Gabriel
+227;37 years old, mother, female;park visitors (with another parent who advises);park;children_playing;morning;lively;Laura
+228;26 years old, fitness coach, male;people on the sidewalk (with a fitness enthusiast who speaks);urban;early_morning_sun;morning;bright;David
+229;54 years old, retiree, female;people in street (with a senior citizen who advises);urban;aging_buildings;morning;calm;Monique
+230;23 years old, traveler, male;people on the sidewalk (with a local who speaks);urban;fresh_breeze;morning;peaceful;Lucas
+231;31 years old, chef, female;store buyers (with a shopping friend who speaks);urban;delicious_wafts;morning;warm;Zoé
+232;44 years old, librarian, male;people in street (with a bookstore employee who advises);urban;book_pages;morning;quiet;Philippe
+233;30_years old female walker (aged) ;street walkers (with a concerned older woman who advises) ;urban;fresh air;morning;brisk;Marie
+234;22_years old male runner (active) ;people in street (with a fellow jogger who advises) ;park;birds chirping;morning;clear;Lucas
+235;40_years old female pedestrian (cautious) ;people on the sidewalk (with a passing friend who talks) ;urban;city traffic;morning;busy;Chloé
+236;28_years old male commuter (prepared) ;store buyers (with a friend who gives the advice) ;café;coffee aroma;morning;sunny;Jules
+237;35_years old female walker (alert) ;teacher classmates (with a colleague who speaks) ;school;children playing;morning;bright;Sophie
+238;26_years old male explorer (awareness) ;people in street (with a friendly neighbor who advises) ;park;leafy scent;morning;peaceful;Olivier
+239;29_years old female runner (planned) ;people on the sidewalk (with a running partner who advises) ;urban;floral fragrance;morning;cool;Lucie
+240;50_years old male driver (cautious) ;someone at a window (with an older friend nearby who speaks) ;street;urban noise;morning;lively;Michel
+241;24_years old female cyclist (vigilant) ;street walkers (with a bike enthusiast who advises) ;park;crisp air;morning;calm;Emma
+242;32_years old male hiker (prepared) ;people in street (with a fellow hiker who advises) ;nature trail;earthy scent;morning;soft;Thomas
+243;37_years old female jogger (safety-conscious) ;crow (alone, aka inner voice) ;urban;morning dew;morning;calm;Camille
+244;45_years old male pedestrian (informed) ;people on the sidewalk (with a neighbor who speaks) ;café;brewing coffee;morning;quiet;Philippe
+245;30_years old female walker (weather-conscious) ;people in street (with a passerby who advises) ;urban;crisp breeze;morning;cool;Anaïs
+246;27_years old male runner (courteous) ;people in street (with a fellow jogger who gives advice) ;park;grass fresh;morning;bright;Quentin
+247;38_years old female walker (routine) ;store buyers (with a friend who speaks) ;urban;early sunlight;morning;warm;Caroline
+248;33_years old male walker (intuitive) ;people on the sidewalk (with a concerned neighbor who advises) ;park;rustling leaves;morning;vivid;Antoine
+249;29_years old female runner (aware) ;people on the sidewalk (with a cautious bystander who speaks) ;urban;city sounds;morning;noisy;Louise
+250;34_years old male pedestrian (proactive) ;someone at a window (with a teacher who advises) ;café;bakery fragrance;morning;soft;Pierre
+251;25_years old female cyclist (hydrated) ;people on the sidewalk (with a health conscious friend who advises) ;park;dew on grass;morning;fresh;Céline
+252;40_years old male walker (in tune) ;people in street (with nearby friend who gives the advice) ;urban;gentle breeze;morning;peaceful;Julien
+253;35 adult male;people on the sidewalk (with a friend who advises);urban;quiet;morning;calm;Louis
+254;28 adult female;teacher classmates (with a fellow student who advises);school;soft;morning;bright;Clara
+255;45 adult male;store buyers (with a cashier who advises);urban;noisy;morning;lively;Pierre
+256;22 young female;crow (alone, aka inner voice);urban;quiet;morning;clear;Emma
+257;65 older female;people in street (with a passerby who advises);urban;fresh;morning;peaceful;Monique
+258;30 adult male;street walkers (with an old friend who talks);urban;busy;morning;vivid;Julien
+259;40 adult female;someone at a window (with a neighbor who advises);urban;bright;morning;warm;Sophie
+260;50 adult male;people on the sidewalk (with a shopkeeper who speaks);urban;soft;morning;cool;Marc
+261;38 adult female;teacher classmates (with a mentor who advises);school;quiet;morning;clear;Alice
+262;29 young male;people in street (with another walker who talks);urban;fresh;morning;calm;Théo
+263;60 older female;people on the sidewalk (with a stranger who advises);urban;clear;morning;bright;Geneviève
+264;33 adult male;street walkers (with a jogger who advises);park;soft;morning;peaceful;Antoine
+265;41 adult female;someone at a window (with her mother who speaks);urban;busy;morning;lively;Céline
+266;26 young female;crow (alone, aka inner voice);urban;quiet;morning;calm;Léa
+267;36 adult male;teacher classmates (with a class representative who speaks);school;noisy;morning;vivid;Nicolas
+268;51 older female;people on the sidewalk (with an elderly neighbor who advises);urban;soft;morning;warm;Jacqueline
+269;28 adult male;street walkers (with a friend who advises);urban;quiet;morning;clear;Olivier
+270;42 adult female;people in street (with her sister who talks);urban;fresh;morning;peaceful;Isabelle
+271;55 older male;store buyers (with a store employee who advises);urban;busy;morning;lively;Daniel
