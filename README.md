@@ -46,16 +46,16 @@ run_pipeline(
 
 | ID | Corpus | n_texts |
 |----|---------|---------|
-| O1 | Keeping_town_clean | 257 |
-| O2 | Learning_mistakes | 279 |
-| O3 | Learning_skills | 296 |
-| O4 | Protecting_water_forests | 253 |
-| O5 | Stay_healthy | 300 |
-| O6 | Walk_city | 276 |
-| O7 | Walk_dawn | 271 |
-| O8 | Walk_rain | 296 |
-| O9 | Walk_water | 213 |
-| O10 | Walk_wild | 255 |
+| D1 | Keeping_town_clean | 257 |
+| D2 | Learning_mistakes | 279 |
+| D3 | Learning_skills | 296 |
+| D4 | Protecting_water_forests | 253 |
+| D5 | Stay_healthy | 300 |
+| D6 | Walk_city | 276 |
+| D7 | Walk_dawn | 271 |
+| D8 | Walk_rain | 296 |
+| D9 | Walk_water | 213 |
+| D10 | Walk_wild | 255 |
 
 Each generated corpus is stored under `outputs/` in CSV and TXT format.  
 The naming convention is: `outputs/<corpus_name>_1/` for its directory<br>
