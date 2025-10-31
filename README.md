@@ -82,8 +82,8 @@ topic, advice, and mapping tables in csv format and generated texts
 
 ## Acknowledgments
 
-It is thanked OpenAI for its IA help at generating, debugging and refining most of the code for the automatic pipeline.<br>
-It is thanked also all authors/contributors to `pandas`, `matplotlib`, `tkinter`, `openai`, `reportlab`, `python-docx`.
+We thank modern tools such as OpenAI GPT-5 and VS Code for their help at generating, debugging, and refining parts of the code.<br>
+We also acknowledge all authors/contributors to pandas, matplotlib, tkinter, reportlab, python-docx, and other open-source libraries.
 
 ---
 
