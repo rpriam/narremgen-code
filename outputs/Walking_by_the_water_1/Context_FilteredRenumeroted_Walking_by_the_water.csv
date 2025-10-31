@@ -1,0 +1,220 @@
+Num;Character;Presence;Location;Sensation;Time;Moment;First_Name
+1;45 years old, local guide, male;people on the path (with a friend who advises);park;sound of water;afternoon;calm;Jean
+2;30 years old, nature enthusiast, female;friends (with an old man who advises);outdoor trail;fresh air;morning;bright;Clara
+3;35 years old, parent, female;families (with her mother who advises);waterfront;children playing;afternoon;lively;Sophie
+4;50 years old, hiker, male;walking companions (with a young person who advises);nature reserve;earthy scent;afternoon;cool;Marc
+5;28 years old, student, female;students (with a mentor who speaks);university campus;light chatter;morning;soft;Laura
+6;40 years old, outdoor instructor, male;participants (with a colleague who speaks);hiking trail;crisp air;morning;clear;Thomas
+7;25 years old, wildlife photographer, female;tourists (with a guide who advises);scenic lookout;whisper of wind;afternoon;peaceful;Alice
+8;22 years old, athlete, male;friends (with a teammate who speaks);beach;salt in the air;midday;warm;Julien
+9;38 years old, nature lover, female;couples (with a nearby elder who advises);lake view;birds chirping;evening;calm;Emilie
+10;33 years old, safety officer, male;fellow workers (with a lead who advises);coastal area;gentle waves;afternoon;cool;Philippe
+11;20 years old, college student, female;classmates (with a teacher who speaks);outdoor classroom;morning sun;morning;bright;Chloe
+12;47 years old, park ranger, male;visitors (with a volunteer who advises);national park;rustle of leaves;afternoon;lively;David
+13;60 years old, retired sailor, male;family (with a spouse who speaks);harbor;smell of sea;evening;soft;Henri
+14;29 years old, adventure seeker, female;friends (with a stranger who advises);mountain path;cool breeze;afternoon;windy;Isabelle
+15;55 years old, environmentalist, male;community members (with a leader who advises);nature path;earthy richness;morning;calm;Jacques
+16;42 years old, program coordinator, female;team (with a coworker who speaks);river bank;crisp smell;evening;peaceful;Nathalie
+17;48 years old, mentor, male;young people (with a student who advises);park bench;sunshine;afternoon;vivid;François
+18;27 years old, health enthusiast, female;wellness group (with a friend who speaks);walking trail;aroma of flowers;morning;bright;Marine
+19;36 years old, security guard, male;visitors (with a friend who advises);tourist spot;warm sunlight;midday;clear;Louis
+20;31 years old, tour guide, female;tourists (with a child who speaks);scenic area;sound of laughter;evening;soft;Caroline
+21;35_year_old_male_guide (with a fellow guide who advises);people on the sidewalk;urban;light breezes;afternoon;calm;Léo
+22;35_years_old_guide_male;tourists (with a fellow guide who advises);beach;waves_lapping;afternoon;sunny;Lucas
+23;28_years_old_hiker_female;friends (with her partner who speaks);coastal_path;salt_air;morning;cool;Sophie
+24;42_years_old_father_male;family (with his son who advises);shoreside;windy;evening;calm;Julien
+25;30_years_old_local_male;fishermen (with an elder who speaks);pier;seagulls_cawing;afternoon;bright;Thomas
+26;20_years_old_student_female;classmates (with a friend who talks);riverbank;earthy;morning;clear;Camille
+27;50_years_old_retiree_female;neighbors (with a friend who advises);lakefront;chirping_birds;afternoon;peaceful;Martine
+28;36_years_old_mother_female;other_parents (with her friend who advises);playground;children_laughing;afternoon;warm;Claire
+29;8_years_old_child_male;group_of_kids (with an older cousin who speaks);beachfront;footprints_in_sand;midday;lively;Gabriel
+30;45_years_old_safety_expert_male;community_members (with a local leader who advises);park;leaves_rustling;morning;soft;Richard
+31;60_years_old_volunteer_female;beach_cleaners (with a fellow volunteer who talks);coastal_area;fresh_ocean_breeze;early_morning;quiet;Isabelle
+32;22_years_old_environmentalist_female;friends (with a mentor who advises);nature_reserve;crunching_leaves;afternoon;bright;Elodie
+33;38_years_old_medic_male;families (with a visitor who speaks);picnic_area;people_chattering;midday;vivid;Alexandre
+34;25_years_old_photographer_female;tourists (with a friend who advises);scenic_viewpoint;camera_clicks;morning;clear;Anaïs
+35;44_years_old_teacher_male;students (with a colleague who speaks);schoolyard;children_playing;afternoon;soft;Philippe
+36;27_years_old_naturalist_female;visitors (with a fellow naturalist who advises);estuary;water_gurgling;evening;peaceful;Margaux
+37;32_years_old_caretaker_male;visitors (with a passerby who talks);beach;gentle_breeze;morning;cool;Olivier
+38;29_years_old_guide_female;campers (with a leader who advises);hiking_trail;crisp_air;morning;calm;Véronique
+39;19_years_old_student_female;classmates (with a mentor who speaks);college_campus;city_sounds;afternoon;lively;Chloé
+40;53_years_old_coach_male;teammates (with an assistant who advises);sports_field;cheering_fans;evening;bright;Nicolas
+41;40_years_old_researcher_female;scientists (with a colleague who speaks);riverbank;peaceful_water;afternoon;cloudy;Sandrine
+42;26_years_old_guidance_officer_female;friends (with a friend who advises);beach;soft_waves;afternoon;calm;Claire
+43;32_years_old_hiker_male;fellow trekkers (with a fellow hiker who talks);coastal path;crunching stones;morning;bright;Julien
+44;18_years_old_student_female;classmates (with a classmate who speaks);riverside;gentle_breeze;evening;peaceful;Emma
+45;40_years_old_parent_male;family (with his child who gives the advice);city waterfront;chirping_birds;midday;lively;Lucas
+46;22_years_old_traveler_female;companions (with a travel buddy who speaks);coastal trail;salt_air;afternoon;warm;Chloe
+47;34_years_old_educator_male;colleagues (with a fellow educator who talks);park;fragrant_flowers;mornings;cool;Martin
+48;28_years_old_photographer_female;tourists (with a stranger who advises);ocean viewpoint;crashing_waves;midsummer;sunny;Sophie
+49;50_years_old_naturalist_male;visitors (with a guide who advises);nature reserve;crisp_air;afternoon;quiet;François
+50;45_years_old_lifeguard_female;beachgoers (with a lifeguard who gives advice);sandy beach;sunny_smell;midday;brilliant;Nathalie
+51;29_years_old_researcher_male;colleagues (with a fellow researcher who talks);shoreline;sea_breeze;late afternoon;vivid;Paul
+52;31_years_old_cyclist_female;friends (with a cycling buddy who speaks);riverbank;refreshing_breeze;early evening;cool;Marie
+53;24_years_old_athlete_male;training group (with a coach who advises);marina;sea_spray;morning;bright;Antoine
+54;37_years_old_safety_officer_female;community members (with a local elder who speaks);cliffside;warm_sunlight;sunset;soft;Juliette
+55;21_years_old_wildlife_enthusiast_male;fellow enthusiasts (with a fellow member who talks);wetlands;earthy_smell;afternoon;lively;Thomas
+56;39_years_old_boater_female;friends (with a passenger who advises);dock;slapping_water;midday;clear;Lucie
+57;29_years_old_surfer_male;beachgoers (with a friend who advises);surf_spot;salty_air;morning;bright;Kevin
+58;33_years_old_tour_guide_female;tourists (with a participant who speaks);seaside promenade;brisk_breeze;afternoon;warm;Isabelle
+59;48_years_old_veteran_male;local fishermen (with a sailor who advises);fishing pier;smell_of_bait;early morning;quiet;Henri
+60;25_years_old_adventurer_female;friends (with a friend who speaks);island_each;cool_sea_breeze;sunset;vivid;Anna
+61;36_years_old_walker_male;joggers (with a friend who advises);waterfront_path;fresh_air;evening;peaceful;Olivier
+62;34 years old, guide, female;people on the sidewalk (with a pedestrian who advises);urban;sound of water flowing;afternoon;bright;Elodie
+63;45 years old, parent, male;family members (with his wife who advises);park;fresh scent of grass;morning;clear;Thomas
+64;27 years old, friend, female;friends (with a close friend who speaks);near the water;gentle breeze;evening;calm;Sophie
+65;30 years old, caretaker, male;beachgoers (with a nearby parent who speaks);beach;salty ocean air;afternoon;warm;Julien
+66;50 years old, elder, female;walking companions (with a friend who advises);walkway by the water;sound of laughter;afternoon;lively;Claire
+67;18 years old, student, male;classmates (with a peer who advises);schoolyard;smell of lunch food;midday;noisy;Lucas
+68;40 years old, runner, female;fellow joggers (with a runner who speaks);coastal path;smell of sunscreen;sunset;soft;Anne
+69;25 years old, volunteer, male;passersby (with an observer who advises);park;crisp morning air;morning;peaceful;Louis
+70;29 years old, tourist, female;travelers (with a local who speaks);tourist area;fragrance of food stalls;afternoon;vivid;Isabelle
+71;60 years old, hobbyist, male;fellow photographers (with another photographer who speaks);scenic viewpoint;crackling leaves;morning;quiet;Bernard
+72;22 years old, intern, female;co-workers (with a colleague who advises);office terrace;smell of fresh coffee;afternoon;warm;Camille
+73;35 years old, teacher, male;students (with a student who speaks);school garden;chirping birds;afternoon;bright;Paul
+74;48 years old, safety officer, female;locals (with a safety enthusiast who advises);community center;noise of children playing;daytime;lively;Marie
+75;55 years old, retiree, male;neighborhood friends (with a nearby resident who speaks);backyard;aroma of barbeque;evening;cool;Pierre
+76;32 years old, coach, female;athletes (with a team member who advises);sports field;sound of cheers;afternoon;vivid;Nathalie
+77;38 years old, fisherman, male;other anglers (with an experienced fisherman who advises);fishing dock;smell of bait;morning;calm;Jacques
+78;24 years old, social worker, female;community members (with a mentor who advises);community gathering;smell of flowers;afternoon;bright;Claudine
+79;43 years old, lifeguard, male;beachgoers (with a swimmer who advises);beach;sound of crashing waves;midday;warm;Olivier
+80;36 years old, environmentalist, female;visitors (with a nature guide who advises);nature reserve;fragrance of pine trees;morning;peaceful;Chloé
+81;41 years old, mother, male;parents in the area (with a nearby father who speaks);children's park;breeze carrying laughter;afternoon;soft;Georges
+82;30 years old, friend, female;friends (with a wise friend who advises);park;water sounds, fresh air;afternoon;peaceful;Clara
+83;24 years old, sibling, male;family (with his older sister who advises);boardwalk;crashing waves, salty smell;morning;clear;Martin
+84;40 years old, parent, female;parents (with her partner who advises);seaside;gentle breeze, sun warmth;late afternoon;brilliant;Isabelle
+85;18 years old, student, male;students (with a classmate who talks);school yard;quiet chatter, light breeze;midday;lively;Julien
+86;35 years old, colleague, female;workers (with a coworker who advises);riverbank;smell of wet earth, calm water;evening;cool;Sophie
+87;16 years old, teenager, male;friends (with his best friend who advises);lakeshore;chirping birds, bright sunlight;morning;bright;Lucas
+88;28 years old, instructor, female;hikers (with a seasoned hiker who advises);nature reserve;rustling leaves, refreshing air;afternoon;vivid;Amélie
+89;22 years old, traveler, male;travelers (with a local who speaks);coastal pathway;ocean air, warmth;sunset;soft;Antoine
+90;45 years old, elder, female;community (with a neighbor who advises);public park;gentle sounds of nature, fresh grass;mid-morning;calm;Lucie
+91;19 years old, friend, male;friends (with a buddy who talks);riverbank;afternoon sun, fresh water scent;midday;warm;Thierry
+92;52 years old, coach, female;athletes (with a trainer who advises);sports field;distant cheering, smell of grass;early evening;cool;Nathalie
+93;27 years old, researcher, male;colleagues (with a mentor who advises);lakefront;quiet streets, evening light;dusk;quiet;Olivier
+94;10 years old, child, female;families (with her mother who advises);beach;soft sand, salty air;midday;lively;Emma
+95;34 years old, guide, male;tourists (with a parent who advises);coastal path;murmurs of the crowd, warm sun;afternoon;bright;David
+96;25 years old, nurse, female;friends (with a fellow nurse who advises);nature trail;crisp air, light rustling;morning;peaceful;Camille
+97;29 years old, volunteer, male;community members (with a senior who advises);park pavilion;fragrant flowers, birds singing;evening;soft;Julien
+98;38 years old, counselor, female;parents (with a dad who advises);families area near water;children laughing, summer heat;afternoon;lively;Marie
+99;20 years old, student, male;classmates (with a teacher who advises);school grounds;whispers of conversation, breeze;midday;warm;François
+100;33 years old, conservationist, female;visitors (with a park ranger who advises);nature reserve;fresh leaves, cool shade;late afternoon;calm;Justine
+101;50 years old, law enforcement, male;locals (with a safety officer who advises);pier;crashing waves, fresh air;morning;clear;Bernard
+102;35 adult male;friends (with a buddy who advises);beach;waves splashing;afternoon;sunny;Lucas
+103;28 adult female;group of friends (with a close friend who advises);park;birds chirping;morning;bright;Emma
+104;42 adult male;family (with his son who speaks);waterfront;gentle breeze;evening;calm;Thomas
+105;30 adult female;colleagues (with a co-worker who advises);lake;fragrant flowers;morning;cool;Anna
+106;50 elderly male;neighbor (with a local elder who advises);riverbank;fresh grass;afternoon;peaceful;Jean
+107;22 young female;classmates (with a friend who gives advice);coastal trail;seagulls calling;dusk;soft;Charlotte
+108;37 adult female;kids (with her daughter who speaks);beachside;salty air;afternoon;lively;Isabelle
+109;45 adult male;parents (with a mother who advises);park;earthy smell;afternoon;warm;Patrick
+110;60 elderly female;visitors (with a tourist who speaks);marina;sunshine warming;morning;bright;Monique
+111;26 young male;family (with his sister who advises);fishing pier;light breeze;afternoon;vivid;Julien
+112;34 adult female;friends (with a friend who gives advice);near water;sunshine;midday;hot;Sophie
+113;29 adult male;team (with a teammate who speaks);nature reserve;rustling leaves;morning;cool;Olivier
+114;38 adult female;children (with a playful kid who advises);outdoor park;children laughing;afternoon;lively;Claire
+115;49 adult male;locals (with a fellow local who speaks);fishing spot;smell of bait;evening;quiet;Michel
+116;40 adult female;couple (with her husband who advises);riverbank;chirping crickets;nighty;peaceful;Céline
+117;32 young male;friends (with a buddy who gives advice);boardwalk;smell of food;evening;lively;Maxime
+118;55 adult male;parents (with a local dad who speaks);coastal path;ocean waves;afternoon;bright;François
+119;27 young female;siblings (with her brother who advises);nature trail;smell of pine;morning;clear;Léa
+120;41 adult male;tourists (with a guide who speaks);beachfront;sound of waves;afternoon;warm;Vincent
+121;24 young female;running group (with a teammate who advises);seaside;cool breeze;morning;fresh;Chloé
+122;35_years_old_guide_female;tourists (with a local guide who advises);park;water_splashing_murmur;afternoon;sunny;Camille
+123;42_years_old_photographer_male;friends (with a concerned friend who speaks);riverside;crisp_air;morning;calm;Julien
+124;28_years_old_teacher_female;students (with a classmate who talks);schoolyard;gentle_breeze;noon;bright;Sophie
+125;50_years_old_bystander_male;families (with a parent who advises);waterfront;children_laughter;evening;lively;Marc
+126;22_years_old_hiker_female;other_hikers (with a fellow hiker who advises);nature_trail;earthy_smell;afternoon;warm;Claire
+127;30_years_old_parent_male;children (with a child who speaks);lake_bank;water_freshness;morning;cloudy;Lucas
+128;45_years_old_elder_female;neighbors (with a nearby woman who advises);park_bench;birdsong;afternoon;soft;Elise
+129;12_years_old_student_male;friends (with a classmate who talks);playground;excited_voice;afternoon;vivid;Louis
+130;26_years_old_runner_female;fellow_runners (with a teammate who advises);running_path;cool_breeze;morning;peaceful;Marie
+131;38_years_old_locals_male;friends (with a local who speaks);beach_side;salty_air;evening;quiet;Antoine
+132;29_years_old_guardian_female;children (with a sibling who advises);family_gathering;flower_smell;noon;warm;Ines
+133;55_years_old_expert_male;visitors (with an onlooker who speaks);wildlife_park;fresh_grass;morning;clear;Henri
+134;27_years_old_volunteer_female;tourists (with a passerby who advises);community_event;festive_noises;afternoon;lively;Chloe
+135;19_years_old_student_male;friends (with a buddy who speaks);university_campus;coffee_aroma;morning;bright;Alex
+136;34_years_old_hiker_female;group_of_hikers (with a leader who advises);mountain_path;pine_forest_smell;afternoon;cool;Sarah
+137;40_years_old_safety_officer_male;workers (with a colleague who advises);construction_site;tools_clattering;morning;noisy;Philippe
+138;32_years_old_supervisor_male;team (with an employee who advises);workplace;office_lights;morning;bright;David
+139;41_years_old_educator_female;children (with a child who speaks);park;floral_fragrance;afternoon;sunny;Laura
+140;37_years_old_medic_male;friends (with a buddy who advises);outdoors;open_air;evening;peaceful;Olivier
+141;35_years_old_guide_female;visitors (with a tourist who advises);park;calm_breeze;afternoon;peaceful;Elodie
+142;28_years_old_hiker_male;friends (with his friend who warns);by the water;soft_ripples;midday;bright;Luc
+143;42_years_old_fisherman_male;fellow fishers (with a local elder who cautions);lake;gentle_waves;morning;clear;Olivier
+144;22_years_old_student_female;classmates (with a savvy friend who suggests);riverside;chirping_birds;evening;cool;Claire
+145;30_years_old_parent_male;family (with his partner who advises);beach;salty_air;late_morning;lively;Thomas
+146;19_years_old_pet_owner_female;dog_owners (with an experienced handler who reminds);waterfront;fresh_scents;afternoon;sunny;Sophie
+147;25_years_old_wildlife_enthusiast_male;hikers (with a guide who encourages);wetlands;fresh_earth;early_morning;quiet;Antoine
+148;45_years_old_safety_officer_male;picnickers (with a friend who educates);coast;sea_breeze;afternoon;warm;Julien
+149;60_years_old_educator_female;young_adults (with a local who reminds);beach;sunshine;midday;bright;Margaux
+150;33_years_old_traveler_male;locals (with a nearby resident who passes advice);coastal_path;fragrant_flowers;late_afternoon;vivid;Lucas
+151;29_years_old_cyclist_female;other_cyclists (with a fellow biker who notes);shoreline;cool_air;early_evening;calm;Camille
+152;37_years_old_scenic_guide_male;visitors (with a park ranger who shares information);riverbank;crisp_air;morning;peaceful;François
+153;21_years_old_adventurer_female;walkers (with a friend who discusses safety);lakefront;chirping_birds;noon;bright;Anaïs
+154;48_years_old_coach_male;team_members (with a coach who emphasizes);waterfront;gentle_waves;afternoon;soft;Philippe
+155;39_years_old_historian_female;locals (with an elderly person who advises);seaside;coastal_salt;morning;clear;Geneviève
+156;75_years_old_retiree_male;young_people (with a grandchild who reminds);park;crispy_leaves;afternoon;peaceful;Jean
+157;26_years_old_artist_female;friends (with a partner who suggests);marina;twinkling_water;evening;cool;Héloïse
+158;47_years_old_photographer_male;passersby (with a tourist who alerts);fishing_area;calm_waves;late_afternoon;warm;Thierry
+159;31_years_old_leader_female;group_friends (with a companion who encourages);coastline;breezy_air;daytime;lively;Pauline
+160;35 years old, adult, female;people on the sidewalk (with her friend who advises);park;gentle breeze,muffled chatter;afternoon;bright;Claire
+161;42 years old, adult, male;people on the sidewalk (with his son who talks);beach;salty air,waves crashing;morning;sunny;David
+162;28 years old, young adult, female;teacher classmates (with a classmate who advises);school;quiet ambiance,students' laughter;afternoon;clear;Lucie
+163;50 years old, adult, male;store buyers (with a customer who speaks);outdoor market;fresh produce smell,people chatting;morning;warm;Jean
+164;21 years old, young adult, female;street walkers (with a friend who advises);boardwalk;ocean smell,sound of seagulls;afternoon;lively;Emma
+165;60 years old, senior, male;people in street (with a passerby who advises);coastal path;crunch of pebbles,children's laughter;morning;peaceful;Henri
+166;5 years old, child, female;family members (with her mother who advises);park;fresh grass,picnic food aroma;afternoon;soft;Chloé
+167;33 years old, adult, male;people near the water (with a local who speaks);lakeside;stillness of water,chirping birds;evening;quiet;Olivier
+168;45 years old, adult, female;friends in a group (with a friend who advises);swimming area;warm sunlight,splashing water;afternoon;bright;Sophie
+169;30 years old, adult, male;people by the beach (with a relative who advises);beach;warm sand,children playing;morning;calm;Thomas
+170;24 years old, young adult, female;friends on a walk (with a friend who advises);waterfront;cool breeze,smell of sunscreen;afternoon;vivid;Elodie
+171;39 years old, adult, male;visitors at the shore (with a guide who speaks);cliff edge;windy,crashing waves;afternoon;cool;Marc
+172;27 years old, young adult, female;people on the beach (with a lifeguard who advises);sandy stretch;sea salt in the air,heat of the sun;midday;bright;Alice
+173;48 years old, adult, male;locals at the park (with an old man who advises);nature trail;fresh air,chirping birds;morning;cool;Philippe
+174;38 years old, adult, female;visitors on the trail (with her partner who advises);hiking path;scents of pine, rustling leaves;afternoon;clear;Isabelle
+175;29 years old, young adult, male;friends on the pier (with a friend who advises);dock area;fishy smell,gulls calling;morning;soft;Julien
+176;53 years old, adult, female;coastal visitors (with a friend who advises);beachfront;warm wind,quiet splashes;evening;peaceful;Nathalie
+177;44 years old, adult, male;people at a gathering (with a community member who advises);picnic area;aroma of barbecue, laughter;afternoon;lively;Gérard
+178;55 years old, adult, female;neighbors near the water (with a local who talks);riverside;earthy smell,peaceful sounds;morning;calm;Catherine
+179;22 years old, young adult, male;group of friends (with a brother who speaks);waterfront;sunshine on the water,energizing atmosphere;afternoon;bright;Lucas
+180;35 years old, advisor, female;friends (with a peer who advises);park;gentle breeze,murmurs;afternoon;calm;Claire
+181;28 years old, walker, male;family (with his mother who advises);pathway by the lake;birds chirping,water lapping;morning;bright;Julien
+182;42 years old, parent, female;group of mothers (with a friend who talks);waterfront;crisp air,splashing;afternoon;lively;Marianne
+183;50 years old, guardian, male;locals (with an elderly man who advises);riverbank;fresh earth,wet grass;morning;cool;Robert
+184;19 years old, student, female;friends (with a classmate who speaks);trail by the shore;sunshine,soft whispers;evening;warm;Sophie
+185;45 years old, caretaker, male;children (with his child who advises);beachfront;salty air,waves crashing;afternoon;vivid;Philippe
+186;33 years old, nature lover, female;hikers (with a friend who talks);nature reserve;crisp smell,tree rustling;morning;clear;Laura
+187;29 years old, athlete, male;team members (with a teammate who speaks);coastal path;fresh scent of pine,energy;afternoon;saturated;Alex
+188;60 years old, retiree, female;fellow walkers (with a stranger who advises);waterfront park;soft fragrance,chirping birds;morning;peaceful;Elise
+189;31 years old, adventurer, male;friends (with a group leader who speaks);hiking trail;crisp air,echoing voices;afternoon;cool;Marc
+190;24 years old, student, female;classmates (with a friend who advises);dune area;warm sun,sound of waves;afternoon;bright;Alice
+191;38 years old, traveler, male;tourists (with a local who speaks);lake shore;fresh scent of water,gentle wind;morning;soft;Vincent
+192;27 years old, fitness enthusiast, female;park goers (with a fellow runner who talks);boardwalk;warm sun,sound of laughter;evening;lively;Chloe
+193;63 years old, walker, male;visitors (with a friend who gives advice);river walk;fresh air,whisper of trees;afternoon;quiet;Jacques
+194;22 years old, intern, female;friends (with an older mentor who speaks);scenic overlook;fresh ocean air,faint sounds of seagulls;morning;calm;Laura
+195;41 years old, breast cancer survivor, female;group of supporters (with a peer who advises);fishing dock;fragrance of the sea,soft chatter;afternoon;bright;Isabelle
+196;55 years old, fisherman, male;family (with a son who talks);lagoon;nature scents,water sounds;morning;cool;Thomas
+197;19 years old, student, female;friends (with an older sister who speaks);nature trail;jungle scents,echo of wildlife;afternoon;vivid;Emma
+198;36 years old, counselor, male;community members (with a neighbor who advises);local park;earthy smells,sounds of rustling;evening;soft;Henri
+199;29 years old, volunteer, female;visitors (with a park ranger who talks);beach;warm breeze,laughter of children;afternoon;lively;Sophie
+200;35_years_old_guide_female;group_of_tourists (with a guide who advises);park;water_lapping_sounds;afternoon;sunny;Marie
+201;28_years_old_friend_male;friends_on_the_path (with a friend who talks);waterfront;cool_breeze;morning;clear;Julien
+202;45_years_old_parent_female;family_at_the_edge (with a parent who advises);beach;salty_air;afternoon;bright;Sophie
+203;50_years_old_naturalist_male;hikers_in_the_area (with a naturalist who speaks);nature_reserve;birds_chirping;afternoon;warm;Maxime
+204;30_years_old_hiker_female;couple_on_the_trail (with a partner who advises);forest_path;earthy_smell;morning;cool;Claire
+205;25_years_old_student_male;classmates_on_a_field_trip (with a classmate who speaks);riverside;soft_waves;afternoon;vivd;Antoine
+206;40_years_old_grandparent_female;family_near_water (with a grandparent who advises);lake;children_laughing;morning;peaceful;Chantal
+207;32_years_old_athlete_male;friends_at_the_water's_edge (with a friend who talks);harbor;water_splashing;afternoon;lively;Lucas
+208;23_years_old_sibling_female;siblings_on_a_walk (with a sister who advises);pathway;fresh_air;afternoon;cool;Emilie
+209;38_years_old_captain_male;boaters_on_the_lake (with a captain who advises);marina;boat_engine_sounds;morning;cloudy;David
+210;55_years_old_guardian_female;group_of_wildlife_watchers (with a guardian who speaks);wetlands;rustling_leaves;afternoon;calm;Françoise
+211;20_years_old_volunteer_male;participants_at_an_event (with a volunteer who advises);park;laughter_and_chatter;afternoon;warm;Paul
+212;36_years_old_educator_female;children_at_a_field_trip (with an educator who talks);seaside;seagulls_calling;morning;bright;Nathalie
+213;48_years_old_mother_female;playground_visitors (with a mother who advises);shore;children_playing;afternoon;lively;Isabelle
+214;31_years_old_rescuer_male;beachgoers (with a rescuer who speaks);beach;breeze_rustling_sand;afternoon;sunny;Julien
+215;42_years_old_adventurer_female;campers_on_a_trip (with an adventurer who talks);campground;fire_crackling;evening;warm;Veronique
+216;27_years_old_trainer_male;dog_walkers_in_the_park (with a trainer who advises);park;fragrant_flowers;morning;cool;Thomas
+217;29_years_old_photographer_female;friends_on_a_trip (with a photographer who talks);coastline;camera_shutter;sundown;calm;Caroline
+218;34_years_old_caretaker_male;families_near_water (with a caretaker who advises);riverbank;fish_swimming;afternoon;vivid;Alexandre
+219;22_years_old_explorer_female;school_group (with an explorer who talks);nature_trail;pine_freshness;morning;bright;Chloe
