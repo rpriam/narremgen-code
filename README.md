@@ -32,7 +32,15 @@ pip install narremgen
 import narremgen
 from narremgen import pipeline
 
-pipeline.run_pipeline("datasets/topics.csv")
+run_pipeline(
+    topic="Walking_in_the_city",
+    output_dir="./outputs",
+    assets_dir="./narremgen/settings",
+    n_batches=2,
+    n_per_batch=20,
+    output_format="txt",
+    verbose=False
+)
 ```
 
 ## Examples of output datasets
