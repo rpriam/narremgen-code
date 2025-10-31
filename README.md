@@ -72,7 +72,7 @@ topic, advice, and mapping tables in csv format and generated texts
 - Automatic generation of new SN/DE during the early csv processing.
 - Cross-corpus alignment for hybrid generation models.
 - JSON schema for corpus metadata and other IA/LMM API.
-- Full statistical analysis after generating the batches<br>
+- Full statistical analysis after generating the batches,<br>
   corpus-wide statistics (length, TTR, Zipf distribution).
 - Improvement of the pipeline, for loop textual refinement.
 
