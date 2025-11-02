@@ -18,8 +18,10 @@
 - Filtering of the rows/batch for advice+sentence/context/mapping csv, renumbering, appending csv and texts.
 - Ready-to-use structure for reproducible experiments in text generation and educational content synthesis.
 
-Note: This package is provided *“as is”* for research and educational purposes.  
-All texts generated are synthetic and intended for experimentation only.
+Note: This package is provided *“as is”* for the research and educational purposes.  
+The code was writen/debogged in iterative way with help of gpt5 openai + vs code.
+All texts generated are synthetic and intended for future experimentations only.
+
 
 ## Usage
 
@@ -75,6 +77,7 @@ topic, advice, and mapping tables in csv format and generated texts
 - Full statistical analysis after generating the batches,<br>
   corpus-wide statistics (length, TTR, Zipf distribution).
 - Improvement of the pipeline, for loop textual refinement.
+- Access to other available API (Gemini,Grock,Llama, etc).
 
 ## References
 
