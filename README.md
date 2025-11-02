@@ -19,8 +19,8 @@
 - Ready-to-use structure for reproducible experiments in text generation and educational content synthesis.
 
 Note: This package is provided *“as is”* for the research and educational purposes.  <br>
-The code was writen/debogged in iterative way with help of gpt5 openai + vs code. <br>
-All texts generated are synthetic and intended for future experimentations only.
+      The code was writen/debogged in iterative way with help of gpt5 openai + vs code. <br>
+      All texts generated are synthetic and intended for future experimentations only.
 
 
 ## Usage
