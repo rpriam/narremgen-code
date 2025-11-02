@@ -80,11 +80,6 @@ topic, advice, and mapping tables in csv format and generated texts
 
 - Priam, R. (2025). *Narrative and Emotional Structures For Generation Of Short Texts For Advice.*, hal-05135171, 2025.
 
-## Acknowledgments
-
-We thank modern tools such as OpenAI GPT-5 and VS Code for their help at generating, debugging, and refining parts of the code.<br>
-We also acknowledge all authors/contributors to pandas, matplotlib, tkinter, reportlab, python-docx, and other open-source libraries.
-
 ---
 
 © 2025 - NarrEmGen Project.
