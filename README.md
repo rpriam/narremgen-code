@@ -70,14 +70,15 @@ topic, advice, and mapping tables in csv format and generated texts
 ## To be added next
 
 - Fine-grained evaluation of narrative coherence and sentiment flow.
+- Full statistical analysis after generating the batches.
+  corpus-wide statistics (length, TTR, Zipf distribution).
 - Automatic style control and readability scoring for more variability.
 - Automatic generation of new SN/DE during the early csv processing.
 - Cross-corpus alignment for hybrid generation models.
 - JSON schema for corpus metadata and other IA/LMM API.
-- Full statistical analysis after generating the batches,<br>
-  corpus-wide statistics (length, TTR, Zipf distribution).
-- Improvement of the pipeline, for loop textual refinement.
-- Access to other available API (Gemini,Grock,Llama, etc).
+- Improvement of the pipeline, for loop textual refinement, etc.
+- Access to other available API (as Gemini,Grock,Llama, Mistral).
+- Plug algebra/grammar for long texts and stories on any subject.
 
 ## References
 
