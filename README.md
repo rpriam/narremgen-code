@@ -64,7 +64,8 @@ The naming convention is: `outputs/<corpus_name>_1/` for its directory<br>
 <br>
 Each directory contains:
 ```
-topic, advice, and mapping tables in csv format and generated texts
+topic, advice, and mapping tables in csv format and generated texts<br>
+and two subdirectories containing generated batched texts + csv files
 ```
 
 ## To be added next
