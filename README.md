@@ -22,14 +22,6 @@ Note: This package is provided *“as is”* for the research and educational pu
       The code was writen/debogged in iterative way with help of gpt5 openai + vs code. <br>
       All texts generated are synthetic and intended for future experimentations only.
 
-Warning: Only informed users or trainers should apply this system in practice and must review all generated outputs.
-These stories illustrate everyday behavioral situations such as including health-related contexts, and are intended 
-primarily for conceptual and linguistic modeling within the SN/DE framework. Any practical use in medical, practical, 
-psychological, or advisory contexts requires independent validation by qualified experts. Users should verify any 
-factual information through official or peer-reviewed sources, preferably recent publications in relevant scientific 
-fields. Large language models remain prone to hallucinations, and this version of the package does not include automatic 
-guideline or source-credibility verification.
-
 ## Usage
 
 ```
@@ -87,6 +79,17 @@ and two subdirectories containing generated batched texts + csv files
 - Improvement of the pipeline, for loop textual refinement, etc.
 - Access to other available API (as Gemini,Grock,Llama, Mistral).
 - Plug algebra/grammar for long texts and stories on any subject.
+- Automatic checking validity of advice (+update prompt /source)
+
+## Warning
+
+Only informed users or trainers should apply this system in practice and must review all generated outputs.
+These stories illustrate everyday behavioral situations such as including health-related contexts, and are intended 
+primarily for conceptual and linguistic modeling within the SN/DE framework. Any practical use in medical, practical, 
+psychological, or advisory contexts requires independent validation by qualified experts. Users should verify any 
+factual information through official or peer-reviewed sources, preferably recent publications in relevant scientific 
+fields. Large language models remain prone to hallucinations, and this version of the package does not include automatic 
+guideline or source-credibility verification.
 
 ## References
 
