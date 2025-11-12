@@ -81,6 +81,7 @@ and two subdirectories containing generated batched texts + csv files
 - Plug algebra/grammar for long texts and stories on any subject.
 - Automatic checking validity of advice (+update prompt /source).
 - Refactor code with classes and change to generic methods.
+- Add a graphical user interface for pipeline and updates.
 
 ## Warning
 
