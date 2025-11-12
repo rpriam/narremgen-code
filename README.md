@@ -79,7 +79,8 @@ and two subdirectories containing generated batched texts + csv files
 - Improvement of the pipeline, for loop textual refinement, etc.
 - Access to other available API (as Gemini,Grock,Llama, Mistral).
 - Plug algebra/grammar for long texts and stories on any subject.
-- Automatic checking validity of advice (+update prompt /source)
+- Automatic checking validity of advice (+update prompt /source).
+- Refactor code with classes and change to generic methods.
 
 ## Warning
 
