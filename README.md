@@ -70,7 +70,7 @@ and two subdirectories containing generated batched texts + csv files
 ## To be added next
 
 - Fine-grained evaluation of narrative coherence and sentiment flow.
-- Full statistical analysis after generating the batches.
+- Full statistical analysis after generating the batches.<br>
   corpus-wide statistics (length, TTR, Zipf distribution).
 - Automatic style control and readability scoring for more variability.
 - Automatic generation of new SN/DE during the early csv processing.
