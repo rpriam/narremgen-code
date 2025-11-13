@@ -1,5 +1,5 @@
 # <br>
-# **<u>NarrEmGen: Narrative Generation+Analysis Pipeline</u>**<br>
+# **<u>NarrEmGen: Narrative Generation Pipeline</u>**<br>
 
 ## Main modules
 
