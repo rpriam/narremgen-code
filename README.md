@@ -87,9 +87,9 @@ and two subdirectories containing generated batched texts + csv files
 
 Only informed users or trainers should apply this system in practice and must review all generated outputs.
 These stories illustrate everyday behavioral situations such as including health-related contexts, and are intended 
-primarily for conceptual and linguistic modeling within the SN/DE framework. Any practical use in medical, practical, 
-psychological, or advisory contexts requires independent validation by qualified experts. Users should verify any 
-factual information through official or peer-reviewed sources, preferably recent publications in relevant scientific 
+primarily for conceptual and linguistic modeling within the SN/DE framework. Any use in practical medical, practical 
+psychological, or (self) advisory contexts requires independent validation by qualified experts. Users should verify 
+any factual information through official or peer-reviewed sources, preferably recent publications in relevant scientific 
 fields. Large language models remain prone to hallucinations, and this version of the package does not include automatic 
 guideline or source-credibility verification.
 
