@@ -6,9 +6,9 @@
 - `pipeline`: Main entry point for batch generation, filtering, renumbering, and stats.
 - `core`: OpenAI interface, API management, and safe/robust text generation utilities.
 - `data`: Data preparation and input handling for topic–advice–prompt-based generation.
+- `utils`: Validation, logging, and helper functions for file and mapping control.
 - `narratives`: Text post-processing, style control, and thematic structure.
 - `analyzestats`: Statistical exploration, corpus comparison with SN/DE counts.
-- `utils`: Validation, logging, and helper functions for file and mapping control.
 - `interface`: Optional Tkinter GUI for text segmentation and tagging (not generation).
 
 ## Key features
