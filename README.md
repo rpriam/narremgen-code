@@ -70,7 +70,7 @@ and two subdirectories containing generated batched texts + csv files
 ## Warning
 
 Only informed users or trainers should use this system in practice.  <br>
-Some advice may be missing or mistaken du to ia/programming choices.  <br>
+Some advice may be missing or mistaken du to ia/programming.  <br>
 In future automatic checkings may be implemented for end user.
 
 ## References
