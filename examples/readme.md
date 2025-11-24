@@ -1,4 +1,5 @@
 Examples of merged re-written documents (TeX + PDFLaTeX) <br>
+Note: these documents are for research or informed user only.
 
 | ID | Corpus | n_texts | File
 |----|---------|---------|---------|
@@ -8,4 +9,4 @@ Examples of merged re-written documents (TeX + PDFLaTeX) <br>
 | D9 | Walk_water | 213 | [.pdf](https://github.com/rpriam/narremgen-code/blob/main/examples/book_Walking_by_the_water.pdf) |
 | D10 | Walk_wild | 255 | [.pdf](https://github.com/rpriam/narremgen-code/blob/main/examples/book_Walking_in_the_wild.pdf) |
 
-This documents are for research or informed user only.
+
