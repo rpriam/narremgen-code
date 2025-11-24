@@ -1,5 +1,5 @@
 Examples of merged re-written documents (TeX + PDFLaTeX) <br>
-They are written text from the original neutral to varied styles. 
+They are written text from the original neutral to varied styles. <br>
 Note: these documents are for research or informed user only.
 
 | ID | Corpus | n_texts | File
